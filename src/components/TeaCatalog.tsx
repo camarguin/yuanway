@@ -86,7 +86,7 @@ export default function TeaCatalog() {
   // Helper function to safely get translations for tea keys
   const getTeaTranslation = (key: string): string => {
     try {
-      return (t as any)(key) || key;
+      return (t as (key: string) => string)(key) || key;
     } catch {
       return key;
     }

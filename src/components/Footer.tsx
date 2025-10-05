@@ -1,7 +1,6 @@
 'use client'
 
 import { useTranslation } from './LanguageContext'
-import Image from 'next/image'
 
 export default function Footer() {
   const { t } = useTranslation()

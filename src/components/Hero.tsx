@@ -1,6 +1,5 @@
 'use client'
 
-import Image from 'next/image'
 import { useTranslation } from './LanguageContext'
 import { useEffect, useState } from 'react'
 
