@@ -1,0 +1,164 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "teas": "Our Teas",
+    "info": "Shop Info",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Premium Tea Collection",
+    "mainTitle": "Fresh From Our Tea Gardens To Your Cup",
+    "subtitle": "Discover the finest selection of loose leaf teas from around the world, carefully curated for tea enthusiasts who appreciate quality and tradition.",
+    "exploreTeas": "Explore Our Teas",
+    "visitShop": "Visit Our Shop"
+  },
+  "about": {
+    "title": "About Our Tea Shop",
+    "subtitle": "Passion for tea excellence since our beginning",
+    "ourStory": "Our Story",
+    "story1": "Founded with a deep passion for tea culture, our shop has been dedicated to bringing you the finest tea experiences from around the world. We believe that tea is more than just a beverage – it's a moment of peace, a connection to nature, and a bridge between cultures.",
+    "story2": "Every tea in our collection is carefully selected from trusted growers who share our commitment to quality and sustainability. From the misty mountains of Darjeeling to the ancient tea gardens of Fujian, we source only the finest leaves that tell a story of tradition and craftsmanship.",
+    "story3": "Whether you're a seasoned tea connoisseur or just beginning your tea journey, we're here to guide you through our diverse selection and help you discover your perfect cup.",
+    "whyChoose": "Why Choose Our Teas?",
+    "premiumQuality": "Premium Quality",
+    "premiumQualityDesc": "Hand-selected from the world's finest tea gardens",
+    "expertCuration": "Expert Curation",
+    "expertCurationDesc": "Years of expertise in selecting exceptional teas",
+    "sustainableSourcing": "Sustainable Sourcing",
+    "sustainableSourcingDesc": "Supporting ethical and environmentally conscious farming"
+  },
+  "teaCatalog": {
+    "title": "Our Tea Collection",
+    "subtitle": "Explore our carefully curated selection of premium teas from renowned tea gardens worldwide",
+    "visitShopCta": "Visit Our Shop",
+    "visitShopDesc": "Visit our shop to explore our complete collection and get personalized recommendations",
+    "flavorProfile": "Flavor Profile:",
+    "teas": {
+      "dragonWell": {
+        "name": "Dragon Well Green Tea",
+        "type": "Green Tea",
+        "origin": "Hangzhou, China",
+        "description": "A delicate and refreshing green tea with a subtle sweetness and beautiful flat-leaf appearance.",
+        "flavor": "Fresh, Sweet, Vegetal"
+      },
+      "earlGrey": {
+        "name": "Earl Grey Supreme",
+        "type": "Black Tea",
+        "origin": "Ceylon, Sri Lanka",
+        "description": "A classic blend of Ceylon black tea with bergamot oil, cornflower petals, and lavender.",
+        "flavor": "Citrusy, Floral, Bold"
+      },
+      "himalayanGold": {
+        "name": "Himalayan Gold",
+        "type": "Black Tea",
+        "origin": "Darjeeling, India",
+        "description": "High-altitude grown tea with a muscatel flavor and golden liquor, perfect for afternoon tea.",
+        "flavor": "Muscatel, Fruity, Astringent"
+      },
+      "jasminePearls": {
+        "name": "Jasmine Phoenix Pearls",
+        "type": "Green Tea",
+        "origin": "Fujian, China",
+        "description": "Hand-rolled pearls of green tea scented with fresh jasmine flowers for an aromatic experience.",
+        "flavor": "Floral, Sweet, Smooth"
+      },
+      "royalPuerh": {
+        "name": "Royal Pu-erh",
+        "type": "Pu-erh Tea",
+        "origin": "Yunnan, China",
+        "description": "Aged dark tea with deep, earthy flavors and a smooth, mellow character that improves with time.",
+        "flavor": "Earthy, Rich, Smooth"
+      },
+      "whiteMoonlight": {
+        "name": "White Moonlight",
+        "type": "White Tea",
+        "origin": "Fujian, China",
+        "description": "Delicate silver buds create a subtle, naturally sweet tea with minimal processing.",
+        "flavor": "Subtle, Sweet, Light"
+      }
+    }
+  },
+  "shopInfo": {
+    "title": "Visit Our Shop",
+    "subtitle": "Come experience our teas in person and discover your perfect blend",
+    "openingHours": "Opening Hours",
+    "location": "Location",
+    "phone": "+(886) 2 2831-9249",
+    "mondayFriday": "Monday - Friday",
+    "mondayFridayHours": "9:30 AM - 9:00 PM",
+    "saturday": "Saturday",
+    "saturdayHours": "10:00 AM - 8:00 PM",
+    "sunday": "Sunday",
+    "sundayHours": "10:00 AM - 8:00 PM",
+    "whatWeOffer": "What We Offer",
+    "services": {
+      "premiumTeas": {
+        "title": "Premium Loose Leaf Teas",
+        "description": "Carefully selected from the finest tea gardens worldwide"
+      },
+      "teaAccessories": {
+        "title": "Tea Accessories",
+        "description": "Teapots, infusers, and everything you need for the perfect brew"
+      },
+      "expertGuidance": {
+        "title": "Expert Guidance",
+        "description": "Personal recommendations and brewing instructions"
+      },
+      "teaTasting": {
+        "title": "Tea Tasting",
+        "description": "Sample different teas before making your selection"
+      },
+      "giftSets": {
+        "title": "Gift Sets",
+        "description": "Beautiful gift packages for tea lovers"
+      },
+      "teaEducation": {
+        "title": "Tea Education",
+        "description": "Learn about tea origins, processing, and brewing techniques"
+      }
+    },
+    "specialNotice": "Special Notice",
+    "specialNoticeDesc": "We are a traditional tea shop focused on providing the finest loose leaf teas and expert guidance. Please visit us in person to experience our full collection and receive personalized recommendations.",
+    "retailOnly": "* We currently operate as a physical retail location only"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions about our teas or need recommendations? We would love to help!",
+    "methods": "Contact Methods",
+    "line": {
+      "title": "Line Messaging",
+      "description": "Connect with us instantly through Line for quick questions and tea recommendations.",
+      "button": "Contact us on Line",
+      "id": "Line ID: @teashop (Please replace with your actual Line ID)"
+    },
+    "phone": {
+      "title": "Phone",
+      "available": "Available during shop hours"
+    },
+    "visit": {
+      "title": "Visit Our Shop",
+      "description": "Best way to experience our full tea collection and get expert recommendations"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "description": "Let us know what type of tea you are looking for or any questions you have about our collection.",
+      "nameLabel": "Name",
+      "namePlaceholder": "Your name",
+      "contactMethodLabel": "Preferred Contact Method",
+      "contactInfoLabel": "Contact Information",
+      "contactInfoPlaceholder": "Line ID, phone number, or email",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell us about the type of tea you're interested in or any questions you have...",
+      "sendButton": "Send Message",
+      "responseTime": "We typically respond within a few hours during business hours"
+    }
+  },
+  "footer": {
+    "description": "Your destination for premium teas from around the world. Experience the finest quality and expert guidance in every cup.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "copyright": "© 2025 TeaShop. All rights reserved. | Crafted with care for tea lovers everywhere.",
+    "address": "Xinyi Rd. Sec. 4, No. 123, Da'an District, Taipei City, Taiwan"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "navigation": {
+    "home": "首頁",
+    "about": "關於我們", 
+    "teas": "茶葉精選",
+    "info": "店舖資訊",
+    "contact": "聯絡我們"
+  },
+  "hero": {
+    "title": "頂級茶葉收藏",
+    "mainTitle": "從我們的茶園到您的杯中",
+    "subtitle": "發現來自世界各地最優質的散葉茶，精心挑選給重視品質與傳統的茶葉愛好者。",
+    "exploreTeas": "探索我們的茶葉",
+    "visitShop": "造訪我們的店舖"
+  },
+  "about": {
+    "title": "關於我們的茶店",
+    "subtitle": "自創立以來對茶葉卓越品質的熱忱",
+    "ourStory": "我們的故事",
+    "story1": "懷著對茶文化的深厚熱忱而創立，我們的茶店致力於為您帶來來自世界各地最優質的茶葉體驗。我們相信茶不僅僅是一種飲品—它是寧靜的時刻、與大自然的連結，以及文化間的橋樑。",
+    "story2": "我們收藏中的每一款茶都是精心挑選自值得信賴的種植者，他們與我們分享對品質和可持續發展的承諾。從大吉嶺的霧氣山脈到福建的古老茶園，我們只採購訴說著傳統與工藝故事的最佳茶葉。",
+    "story3": "無論您是經驗豐富的茶葉鑑賞家，還是剛開始茶葉之旅，我們都在這裡引導您探索我們多樣化的選擇，幫助您發現您的完美茶杯。",
+    "whyChoose": "為什麼選擇我們的茶葉？",
+    "premiumQuality": "頂級品質",
+    "premiumQualityDesc": "精選自世界最佳茶園",
+    "expertCuration": "專業策展",
+    "expertCurationDesc": "多年精選卓越茶葉的專業經驗",
+    "sustainableSourcing": "永續採購",
+    "sustainableSourcingDesc": "支持合乎道德且環保的農業"
+  },
+  "teaCatalog": {
+    "title": "我們的茶葉收藏",
+    "subtitle": "探索我們精心挑選的頂級茶葉，來自世界知名茶園",
+    "visitShopCta": "造訪我們的店舖",
+    "visitShopDesc": "造訪我們的店舖探索完整收藏並獲得個人化推薦",
+    "flavorProfile": "風味特色：",
+    "teas": {
+      "dragonWell": {
+        "name": "龍井綠茶",
+        "type": "綠茶",
+        "origin": "中國杭州",
+        "description": "清雅清香的綠茶，帶有微妙甜味和美麗的扁葉外觀。",
+        "flavor": "清香、甘甜、青草味"
+      },
+      "earlGrey": {
+        "name": "伯爵茶特級",
+        "type": "紅茶", 
+        "origin": "斯里蘭卡錫蘭",
+        "description": "經典錫蘭紅茶與佛手柑油、矢車菊花瓣和薰衣草的混合。",
+        "flavor": "柑橘香、花香、濃郁"
+      },
+      "himalayanGold": {
+        "name": "喜馬拉雅金茶",
+        "type": "紅茶",
+        "origin": "印度大吉嶺",
+        "description": "高海拔種植的茶葉，帶有麝香葡萄風味和金黃茶湯，完美的下午茶選擇。",
+        "flavor": "麝香葡萄、果香、澀味"
+      },
+      "jasminePearls": {
+        "name": "茉莉龍珠",
+        "type": "綠茶",
+        "origin": "中國福建",
+        "description": "手工捲製的綠茶珍珠，以新鮮茉莉花薰香，帶來芬芳體驗。",
+        "flavor": "花香、甘甜、順滑"
+      },
+      "royalPuerh": {
+        "name": "皇家普洱",
+        "type": "普洱茶",
+        "origin": "中國雲南", 
+        "description": "陳年黑茶，具有深沉土香風味和順滑溫和特質，隨時間愈陳愈香。",
+        "flavor": "土香、濃郁、順滑"
+      },
+      "whiteMoonlight": {
+        "name": "白月光",
+        "type": "白茶",
+        "origin": "中國福建",
+        "description": "精緻的銀芽製成微妙天然甘甜的茶，經最少加工處理。",
+        "flavor": "清淡、甘甜、淡雅"
+      }
+    }
+  },
+  "shopInfo": {
+    "title": "造訪我們的店舖",
+    "subtitle": "親自體驗我們的茶葉，發現您的完美調配",
+    "openingHours": "營業時間",
+    "location": "店舖位置",
+    "phone": "+886228319249",
+    "mondayFriday": "星期一 - 星期五",
+    "mondayFridayHours": "上午 9:30 - 晚上 9:00",
+    "saturday": "星期六",
+    "saturdayHours": "上午 10:00 - 晚上 8:00",
+    "sunday": "星期日",
+    "sundayHours": "上午 10:00 - 下午 8:00",
+    "whatWeOffer": "我們提供什麼",
+    "services": {
+      "premiumTeas": {
+        "title": "頂級散葉茶",
+        "description": "精心挑選自世界最佳茶園"
+      },
+      "teaAccessories": {
+        "title": "茶具配件",
+        "description": "茶壺、濾茶器和完美沖泡所需的一切"
+      },
+      "expertGuidance": {
+        "title": "專業指導",
+        "description": "個人化推薦和沖泡指導"
+      },
+      "teaTasting": {
+        "title": "茶葉品鑑",
+        "description": "在選擇前品嚐不同茶葉"
+      },
+      "giftSets": {
+        "title": "禮品套裝",
+        "description": "為茶葉愛好者精美的禮品包裝"
+      },
+      "teaEducation": {
+        "title": "茶葉教育",
+        "description": "學習茶葉起源、加工和沖泡技術"
+      }
+    },
+    "specialNotice": "特別提醒",
+    "specialNoticeDesc": "我們是一家傳統茶店，專注於提供最優質的散葉茶和專業指導。請親自造訪我們，體驗我們的完整收藏並獲得個人化推薦。",
+    "retailOnly": "* 我們目前僅作為實體零售店經營"
+  },
+  "contact": {
+    "title": "聯絡我們",
+    "subtitle": "對我們的茶葉有疑問或需要推薦？我們很樂意協助！",
+    "methods": "聯絡方式",
+    "line": {
+      "title": "Line 即時通訊",
+      "description": "透過 Line 即時聯絡我們，快速詢問和茶葉推薦。",
+      "button": "透過 Line 聯絡我們",
+      "id": "Line ID: @teashop（請更換為您實際的 Line ID）"
+    },
+    "phone": {
+      "title": "電話",
+      "available": "營業時間內可聯絡"
+    },
+    "visit": {
+      "title": "造訪我們的店舖",
+      "description": "體驗我們完整茶葉收藏和獲得專業推薦的最佳方式"
+    },
+    "form": {
+      "title": "傳送訊息給我們",
+      "description": "讓我們知道您想要尋找什麼類型的茶葉，或對我們收藏有任何疑問。",
+      "nameLabel": "姓名",
+      "namePlaceholder": "您的姓名",
+      "contactMethodLabel": "偏好聯絡方式",
+      "contactInfoLabel": "聯絡資訊",
+      "contactInfoPlaceholder": "Line ID、電話號碼或電子郵件",
+      "messageLabel": "訊息",
+      "messagePlaceholder": "告訴我們您感興趣的茶葉類型或任何疑問...",
+      "sendButton": "發送訊息",
+      "responseTime": "我們通常會在營業時間內幾小時內回覆"
+    }
+  },
+  "footer": {
+    "description": "您的頂級茶葉目的地，來自世界各地。在每一杯中體驗最優質品質和專業指導。",
+    "quickLinks": "快速連結",
+    "contactInfo": "聯絡資訊",
+    "copyright": "© 2025 茶店。版權所有。| 為茶葉愛好者精心製作。",
+    "address": "台北市大安區信義路四段123號"
+  }
+}
