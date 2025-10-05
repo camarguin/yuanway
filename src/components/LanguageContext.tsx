@@ -52,11 +52,11 @@ export const translations = {
     aboutSubtitle: 'Passion for tea excellence since our beginning',
     ourStory: 'Our Story',
     aboutStory1:
-      "Founded with a deep passion for tea culture, our shop has been dedicated to bringing you the finest tea experiences from around the world. We believe that tea is more than just a beverage – it's a moment of peace, a connection to nature, and a bridge between cultures.",
+      'Founded with a deep passion for Taiwan’s tea culture, our shop is dedicated to sharing the beauty and tradition of Taiwanese tea with the world. We believe tea is more than a beverage — it’s a moment of peace, a connection to nature, and a reflection of our island’s spirit.',
     aboutStory2:
-      'Every tea in our collection is carefully selected from trusted growers who share our commitment to quality and sustainability. From the misty mountains of Darjeeling to the ancient tea gardens of Fujian, we source only the finest leaves that tell a story of tradition and craftsmanship.',
+      'Each tea in our collection is carefully selected from family-run farms across Taiwan’s mountain regions — from the fragrant high-mountain oolongs of Alishan to the smooth, golden notes of Sun Moon Lake black tea. Every leaf carries the story of our land, our climate, and generations of craftsmanship.',
     aboutStory3:
-      "Whether you're a seasoned tea connoisseur or just beginning your tea journey, we're here to guide you through our diverse selection and help you discover your perfect cup.",
+      'Whether you’re a lifelong tea lover or discovering Taiwanese tea for the first time, we invite you to experience the warmth, purity, and heritage in every cup.',
     whyChoose: 'Why Choose Our Teas?',
     premiumQuality: 'Premium Quality',
     premiumQualityDesc: "Hand-selected from the world's finest tea gardens",
@@ -77,7 +77,7 @@ export const translations = {
     flavorProfile: 'Flavor Profile:',
     dragonWellName: 'Dragon Well Green Tea',
     dragonWellType: 'Green Tea',
-    dragonWellOrigin: 'Hangzhou, China',
+    dragonWellOrigin: 'Alishan, Taiwan',
     dragonWellDesc:
       'A delicate and refreshing green tea with a subtle sweetness and beautiful flat-leaf appearance.',
     dragonWellFlavor: 'Fresh, Sweet, Vegetal',
@@ -87,6 +87,30 @@ export const translations = {
     earlGreyDesc:
       'A classic blend of Ceylon black tea with bergamot oil, cornflower petals, and lavender.',
     earlGreyFlavor: 'Citrusy, Floral, Bold',
+    himalayanGoldName: 'Himalayan Gold',
+    himalayanGoldType: 'Black Tea',
+    himalayanGoldOrigin: 'Darjeeling, India',
+    himalayanGoldDesc:
+      'High-altitude grown tea with muscatel grape flavor and golden liquor, perfect for afternoon tea.',
+    himalayanGoldFlavor: 'Muscatel, Fruity, Astringent',
+    jasminePearlsName: 'Jasmine Pearls',
+    jasminePearlsType: 'Green Tea',
+    jasminePearlsOrigin: 'Nantou, Taiwan',
+    jasminePearlsDesc:
+      'Hand-rolled green tea pearls scented with fresh jasmine flowers for a fragrant experience.',
+    jasminePearlsFlavor: 'Floral, Sweet, Smooth',
+    royalPuerhName: 'Royal Pu-erh',
+    royalPuerhType: 'Pu-erh Tea',
+    royalPuerhOrigin: 'Taitung, Taiwan',
+    royalPuerhDesc:
+      'Aged dark tea with deep earthy flavor and smooth, mellow character that improves with time.',
+    royalPuerhFlavor: 'Earthy, Rich, Smooth',
+    whiteMoonlightName: 'White Moonlight',
+    whiteMoonlightType: 'White Tea',
+    whiteMoonlightOrigin: 'Hualien, Taiwan',
+    whiteMoonlightDesc:
+      'Delicate silver buds creating a subtle, naturally sweet tea with minimal processing.',
+    whiteMoonlightFlavor: 'Light, Sweet, Elegant',
 
     // Shop Info
     shopInfoTitle: 'Visit Our Shop',
@@ -186,11 +210,11 @@ export const translations = {
     aboutSubtitle: '自創立以來對茶葉卓越品質的熱忱',
     ourStory: '我們的故事',
     aboutStory1:
-      '懷著對茶文化的深厚熱忱而創立，我們的茶店致力於為您帶來來自世界各地最優質的茶葉體驗。我們相信茶不僅僅是一種飲品—它是寧靜的時刻、與大自然的連結，以及文化間的橋樑。',
+      '懷著對台灣茶文化的深厚熱忱而創立，我們的茶店致力於與世界分享台灣茶的美麗與傳統。我們相信茶不僅僅是一種飲品—它是寧靜的時刻、與大自然的連結，以及我們寶島精神的體現。',
     aboutStory2:
-      '我們收藏中的每一款茶都是精心挑選自值得信賴的種植者，他們與我們分享對品質和可持續發展的承諾。從大吉嶺的霧氣山脈到福建的古老茶園，我們只採購訴說著傳統與工藝故事的最佳茶葉。',
+      '我們收藏中的每一款茶都是精心挑選自台灣山區的家族茶園—從阿里山的芳香高山烏龍到日月潭的順滑金韻紅茶。每片茶葉都承載著我們土地、氣候以及世代工藝的故事。',
     aboutStory3:
-      '無論您是經驗豐富的茶葉鑑賞家，還是剛開始茶葉之旅，我們都在這裡引導您探索我們多樣化的選擇，幫助您發現您的完美茶杯。',
+      '無論您是茶葉愛好者，還是初次品嚐台灣茶，我們都誠摯邀請您體驗每一杯茶中的溫暖、純淨與傳承。',
     whyChoose: '為什麼選擇我們的茶葉？',
     premiumQuality: '頂級品質',
     premiumQualityDesc: '精選自世界最佳茶園',
@@ -209,7 +233,7 @@ export const translations = {
     flavorProfile: '風味特色：',
     dragonWellName: '龍井綠茶',
     dragonWellType: '綠茶',
-    dragonWellOrigin: '中國杭州',
+    dragonWellOrigin: '台灣阿里山',
     dragonWellDesc: '清雅清香的綠茶，帶有微妙甜味和美麗的扁葉外觀。',
     dragonWellFlavor: '清香、甘甜、青草味',
     earlGreyName: '伯爵茶特級',
@@ -224,17 +248,17 @@ export const translations = {
     himalayanGoldFlavor: '麝香葡萄、果香、澀味',
     jasminePearlsName: '茉莉龍珠',
     jasminePearlsType: '綠茶',
-    jasminePearlsOrigin: '中國福建',
+    jasminePearlsOrigin: '台灣南投',
     jasminePearlsDesc: '手工捲製的綠茶珍珠，以新鮮茉莉花薰香，帶來芬芳體驗。',
     jasminePearlsFlavor: '花香、甘甜、順滑',
     royalPuerhName: '皇家普洱',
     royalPuerhType: '普洱茶',
-    royalPuerhOrigin: '中國雲南',
+    royalPuerhOrigin: '台灣台東',
     royalPuerhDesc: '陳年黑茶，具有深沉土香風味和順滑溫和特質，隨時間愈陳愈香。',
     royalPuerhFlavor: '土香、濃郁、順滑',
     whiteMoonlightName: '白月光',
     whiteMoonlightType: '白茶',
-    whiteMoonlightOrigin: '中國福建',
+    whiteMoonlightOrigin: '台灣花蓮',
     whiteMoonlightDesc: '精緻的銀芽製成微妙天然甘甜的茶，經最少加工處理。',
     whiteMoonlightFlavor: '清淡、甘甜、淡雅',
 
