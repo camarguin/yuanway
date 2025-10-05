@@ -2,6 +2,7 @@
 
 import { useTranslation } from './LanguageContext'
 import { useEffect, useState } from 'react'
+import Link from 'next/link'
 
 export default function Hero() {
   const { t } = useTranslation()
@@ -102,7 +103,7 @@ export default function Hero() {
                   isLoaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
                 }`}
               >
-                <button className='group bg-amber-700 hover:bg-amber-800 text-white px-8 py-4 rounded-full text-lg font-medium transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl cursor-pointer'>
+                <Link href="/teas" className='group bg-amber-700 hover:bg-amber-800 text-white px-8 py-4 rounded-full text-lg font-medium transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl cursor-pointer inline-block'>
                   <span className='flex items-center space-x-2'>
                     <span>{t('exploreTeas')}</span>
                     <svg
@@ -119,7 +120,7 @@ export default function Hero() {
                       />
                     </svg>
                   </span>
-                </button>
+                </Link>
               </div>
             </div>
 
@@ -172,7 +173,7 @@ export default function Hero() {
           </span>
           <div className='flex flex-col space-y-1'>
             <div className='w-0.5 h-8 bg-gray-400 animate-scroll-line'></div>
-            <div className='w-3 h-3 rounded-full border-2 border-gray-400 group-hover:border-gray-600 transition-colors animate-bounce-slow'></div>
+            <div className='w-1 h-1 rounded-full bg-gray-400 group-hover:bg-gray-600 transition-colors animate-pulse'></div>
           </div>
         </button>
       </div>

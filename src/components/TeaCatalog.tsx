@@ -1,6 +1,7 @@
 'use client'
 
 import Image from 'next/image'
+import Link from 'next/link'
 import { useTranslation } from './LanguageContext'
 import { useScrollAnimation } from '../hooks/useScrollAnimation'
 
@@ -229,9 +230,22 @@ export default function TeaCatalog() {
 
         <div className='text-center mt-12'>
           <p className='text-gray-600 mb-6'>{t('visitShopDesc')}</p>
-          <button className='bg-green-800 text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-green-900 transition-colors cursor-pointer'>
-            {t('visitShopCta')}
-          </button>
+          <div className='flex flex-col sm:flex-row gap-4 justify-center items-center'>
+            <Link 
+              href="/teas"
+              className='inline-block bg-amber-700 text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-amber-800 transition-colors cursor-pointer'
+            >
+              {t('exploreTeas')}
+            </Link>
+            <a 
+              href={`https://maps.google.com/maps?daddr=${encodeURIComponent(t('address'))}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className='inline-block bg-green-800 text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-green-900 transition-colors cursor-pointer'
+            >
+              {t('visitShopCta')}
+            </a>
+          </div>
         </div>
       </div>
     </section>

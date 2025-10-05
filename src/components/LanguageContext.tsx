@@ -75,6 +75,7 @@ export const translations = {
     visitShopDesc:
       'Visit our shop to explore our complete collection and get personalized recommendations',
     flavorProfile: 'Flavor Profile:',
+    contactUs: 'Contact Us',
     dragonWellName: 'Dragon Well Green Tea',
     dragonWellType: 'Green Tea',
     dragonWellOrigin: 'Alishan, Taiwan',
@@ -178,6 +179,7 @@ export const translations = {
 
     // Shop Name & Footer
     shopName: 'Yuan Wei Tea House',
+    shopNameShort: 'Yuan Wei',
     shopNameChinese: '緣味茶莊',
     footerDesc:
       'Your destination for premium teas from around the world. Experience the finest quality and expert guidance in every cup.',
@@ -231,6 +233,7 @@ export const translations = {
     visitShopCta: '造訪我們的店舖',
     visitShopDesc: '造訪我們的店舖探索完整收藏並獲得個人化推薦',
     flavorProfile: '風味特色：',
+    contactUs: '聯絡我們',
     dragonWellName: '龍井綠茶',
     dragonWellType: '綠茶',
     dragonWellOrigin: '台灣阿里山',
@@ -321,6 +324,7 @@ export const translations = {
 
     // Shop Name & Footer
     shopName: '緣味茶莊',
+    shopNameShort: '緣味',
     shopNameChinese: '緣味茶莊',
     footerDesc: '您的頂級茶葉目的地，來自世界各地。在每一杯中體驗最優質品質和專業指導。',
     quickLinks: '快速連結',
