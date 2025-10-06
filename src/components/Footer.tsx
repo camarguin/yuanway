@@ -77,11 +77,11 @@ export default function Footer() {
             <h4 className='text-lg font-semibold mb-4'>{t('contactInfo')}</h4>
             <div className='space-y-2'>
               <p className='text-green-200'>
-                📍 台北市大安區信義路四段123號
+                📍 台北市士林區德行東路109巷98號
                 <br />
-                Xinyi Rd. Sec. 4, No. 123
+                No. 98號, Lane 109, Dexing E Rd
                 <br />
-                Da&apos;an District, Taipei City, Taiwan
+                Shilin District, Taipei City, Taiwan 111
               </p>
               <p className='text-green-200'>📞 {t('phone')}</p>
               <p className='text-green-200'>💬 Line: @yuanweiteahouse</p>
