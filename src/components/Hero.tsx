@@ -22,7 +22,7 @@ export default function Hero() {
   return (
     <section
       id='home'
-      className='relative h-screen overflow-hidden bg-cover bg-left bg-no-repeat -mt-16'
+      className='relative min-h-screen h-auto sm:h-screen overflow-hidden bg-cover bg-left bg-no-repeat -mt-16'
       style={{
         backgroundImage: 'url(/images/heroBackground.jpg)',
         filter: 'blur(0)',
@@ -59,9 +59,9 @@ export default function Hero() {
         </div>
       </div>
 
-      <div className='relative z-10 h-full flex items-center pt-16'>
+      <div className='relative z-10 min-h-screen sm:h-full flex items-center pt-16 pb-8'>
         <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full'>
-          <div className='grid grid-cols-1 lg:grid-cols-2 gap-12 items-center h-full'>
+          <div className='grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 items-center min-h-full py-8'>
             {/* Left Content */}
             <div className='text-left space-y-8'>
               {/* Brand Tag */}
@@ -133,9 +133,9 @@ export default function Hero() {
               >
                 {/* Main tea cup */}
                 <div className='relative animate-float-slow'>
-                  <div className='w-64 h-64 md:w-80 md:h-80 rounded-full bg-gradient-to-br from-amber-100 to-amber-200 shadow-2xl flex items-center justify-center'>
-                    <div className='w-56 h-56 md:w-72 md:h-72 rounded-full bg-gradient-to-br from-amber-300 to-amber-500 flex items-center justify-center shadow-inner'>
-                      <div className='text-8xl md:text-9xl'>🍵</div>
+                  <div className='w-48 h-48 sm:w-64 sm:h-64 md:w-80 md:h-80 rounded-full bg-gradient-to-br from-amber-100 to-amber-200 shadow-2xl flex items-center justify-center'>
+                    <div className='w-40 h-40 sm:w-56 sm:h-56 md:w-72 md:h-72 rounded-full bg-gradient-to-br from-amber-300 to-amber-500 flex items-center justify-center shadow-inner'>
+                      <div className='text-6xl sm:text-8xl md:text-9xl'>🍵</div>
                     </div>
                   </div>
 
